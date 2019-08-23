@@ -47,7 +47,7 @@ c      meu primeiro programa
 [Link](url) and ![Image](src)
 ```
 
-**Acknowledgment**: We thank the site www.pudim.com.br for the support in making the creation of a website a dream.
+**Acknowledgment**: We thank the site [www.pudim.com.br](www.pudim.com.br) for the support in making the creation of a website a dream.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
