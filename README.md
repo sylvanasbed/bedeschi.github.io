@@ -47,9 +47,9 @@ c      meu primeiro programa
 [Link](url) and ![Image](src)
 ```
 
-**Acknowledgment**: We thank the site [pudim](www.pudim.com.br) for the support in making the creation of a website a dream.
+**Acknowledgment**: We thank the site [www.pudim.com.br](www.pudim.com.br) for the support in making the creation of a website a dream.
 
-![Morcego](https://www.reddit.com/r/Eyebleach/comments/7juzdi/cleaning_a_baby_bat/)
+![Morcego](https://media.giphy.com/media/ayOnHZTVdseA0/giphy.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
