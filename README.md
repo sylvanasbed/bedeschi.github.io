@@ -6,7 +6,7 @@ Here you can dive in a travel throught time!
 
 Time is an ocean and you are lost here.
 
-### Save Amazon!
+### Save the Amazon rainforest[*](https://www.greenpeace.org/international/act/stand-with-the-guardians-of-the-amazon/)!
 
 [Fogo nos facistas](https://www.facebook.com/OficialChicoCesar/videos/297013281013676/?v=297013281013676). [Fora Bolsonaro!](https://www.facebook.com/ForaBolsonaroBR/)
 
