@@ -8,7 +8,7 @@ Time is an ocean and you are lost here.
 
 ### Save Amazon!
 
-Fogo nos facistas. Fora Bolsonaro!
+[Fogo nos facistas](https://www.facebook.com/OficialChicoCesar/videos/297013281013676/?v=297013281013676). [Fora Bolsonaro!](https://www.facebook.com/ForaBolsonaroBR/)
 
 # This is a block with wild coding
 
@@ -45,11 +45,9 @@ c      meu primeiro programa
 [Link](url) and ![Image](src)
 ```
 
+**Acknowledgment**: We thank the site www.pudim.com.br for the support in making the creation of a website a dream.
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sylvanasbed/bedeschi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
