@@ -10,6 +10,8 @@ Time is an ocean and you are lost here.
 
 [Fogo nos facistas](https://www.facebook.com/OficialChicoCesar/videos/297013281013676/?v=297013281013676). [Fora Bolsonaro!](https://www.facebook.com/ForaBolsonaroBR/)
 
+![Amazon is on fire!](https://www.greenme.com.br/images/informar-se/ambiente/fogo-amazonia.jpg)
+
 # This is a block with wild coding
 
 Brace yourself!
