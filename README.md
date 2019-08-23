@@ -49,6 +49,8 @@ c      meu primeiro programa
 
 **Acknowledgment**: We thank the site [www.pudim.com.br](pudim.com.br) for the support in making the creation of a website a dream.
 
+![Morcego](https://www.reddit.com/r/Eyebleach/comments/7juzdi/cleaning_a_baby_bat/)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
