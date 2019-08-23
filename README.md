@@ -49,7 +49,7 @@ c      meu primeiro programa
 
 **Acknowledgment**: We thank the site [www.pudim.com.br](www.pudim.com.br) for the support in making the creation of a website a dream.
 
-![Morcego](https://media.giphy.com/media/ayOnHZTVdseA0/giphy.gif)
+![Morcego](https://i.giphy.com/media/ayOnHZTVdseA0/giphy.webp)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
